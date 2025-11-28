@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">✨ I've been coding since September 2025<br>📚 I'm currently learning C<br>🎯 Goals: work in cybersecurity</p>
+<p align="left">✨ I've been coding since September 2025<br>📚 I'm currently learning PHP<br>🎯 Goals: work in cybersecurity</p>
 
 ###
 
